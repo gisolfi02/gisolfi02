@@ -16,14 +16,9 @@
 <a href="https://instagram.com/andrea_gisolfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrea_gisolfi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left" style="font-style:bold">Languages and Tools:</h3
-
-
-<p align="right"> 
-
-</p>
+<h3 align="left" style="font-style:bold">Languages and Tools</h3
 <p align="left"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -34,6 +29,7 @@
 </p>
 
 <h3 align="center" style="font-style:bold">My GitHub Stats</h3>
+<p>&nbsp;</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gisolfi02&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="gisolfi02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gisolfi02&show_icons=true&theme=tokyonight&locale=en" alt="gisolfi02" /></p>
