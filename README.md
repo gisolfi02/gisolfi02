@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Video-senza-titolo-Realizzato-con-Clipchamp-_1_.gif" width=900>
+  <img src="assets/banner.gif" width=900>
 </p>
 <p align="center">
  <img src="https://badges.pufler.dev/visits/gisolfi02/gisolfi02"/> 
@@ -7,7 +7,7 @@
  <img src="https://badges.pufler.dev/commits/monthly/gisolfi02" />
 </p>
 
-<img align="right" src="https://github.com/gisolfi02/gisolfi02/assets/114088374/412ba764-54a7-4266-85ff-a08d9d053976" width="500" height="270"> 
+<img align="right" src="assets/coding.gif" width="500" height="270"> 
 
 <h3 align="left" style="font-style:bold">Connect with me </h3>
 <p>
