@@ -7,7 +7,7 @@
  <img src="https://badges.pufler.dev/commits/monthly/gisolfi02" />
 </p>
 
-<img align="right" src="assets/coding.gif" width="490" height="270"> 
+<img align="right" src="assets/coding.gif" width="480" height="270"> 
 
 <h3 align="left" style="font-style:bold">Connect with me </h3>
 <p>
