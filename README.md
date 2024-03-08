@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gisolfi02/gisolfi02/assets/114088374/9150c61b-988f-42d2-a9ee-4df2fb63078b">
+  <img src="https://github.com/gisolfi02/gisolfi02/assets/114088374/1ae3dcba-457a-4cd2-ad40-fd70c1ec2705" width=900>
 </p>
 <p align="center">
  <img src="https://badges.pufler.dev/visits/gisolfi02/gisolfi02"/> 
