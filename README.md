@@ -12,7 +12,7 @@
 <h3 align="left" style="font-style:bold">Connect with me </h3>
 <p>
 <a href="https://twitter.com/1pallasudata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1pallasudata" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrea gisolfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea gisolfi" height="30" width="40" /></a>
+<a href="linkedin.com/in/andrea-gisolfi-6998a1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea gisolfi" height="30" width="40" /></a>
   <a href="https://www.facebook.com/andrea.gisolfi.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrea gisolfi" height="30" width="40" /></a>
 <a href="https://instagram.com/andrea_gisolfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrea_gisolfi" height="30" width="40" /></a>
 </p>
