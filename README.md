@@ -33,9 +33,9 @@
 <p>&nbsp;</p>
 
 <h3 align="center" style="font-style:bold">My GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gisolfi02&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="gisolfi02" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisolfi02&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="gisolfi02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gisolfi02&show_icons=true&theme=tokyonight&locale=en" alt="gisolfi02" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gisolfi02&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="gisolfi02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gisolfi02&theme=dark" alt="gisolfi02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gisolfi02&theme=dark&hide_border=true" alt="gisolfi02" /></p>
 
