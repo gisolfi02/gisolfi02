@@ -34,17 +34,14 @@
 
 <h3 align="center" style="font-style:bold">My GitHub Stats</h3>
 
-<table border="0">
+<table >
   <tr>
     <td>
-      <!-- Most Used Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisolfi02&theme=dark&hide_border=true&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisolfi02&theme=dark&hide_border=true&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20" width=335px>
     </td>
     <td>
-      <!-- GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=gisolfi02&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="gisolfi02" />
+      <img src="https://github-readme-stats.vercel.app/api?username=gisolfi02&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="gisolfi02"  width=495px/>
       <br>
-      <!-- Streak Stats sotto -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=gisolfi02&theme=dark&hide_border=true" alt="gisolfi02" />
     </td>
   </tr>
