@@ -12,7 +12,7 @@
 <h3 align="left" style="font-style:bold">Connect with me </h3>
 <p>
 <a href="https://twitter.com/1pallasudata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1pallasudata" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrea-gisolfi-6998a1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea gisolfi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andrea-gisolfi-6998a1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea gisolfi" height="30" width="40"/></a>
   <a href="https://www.facebook.com/andrea.gisolfi.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrea gisolfi" height="30" width="40" /></a>
 <a href="https://instagram.com/andrea_gisolfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrea_gisolfi" height="30" width="40" /></a>
 </p>
@@ -33,9 +33,21 @@
 <p>&nbsp;</p>
 
 <h3 align="center" style="font-style:bold">My GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisolfi02&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="gisolfi02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gisolfi02&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="gisolfi02" /></p>
+<table border="0">
+  <tr>
+    <td>
+      <!-- Most Used Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisolfi02&theme=dark&hide_border=true&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20">
+    </td>
+    <td>
+      <!-- GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=gisolfi02&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="gisolfi02" />
+      <br>
+      <!-- Streak Stats sotto -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gisolfi02&theme=dark&hide_border=true" alt="gisolfi02" />
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gisolfi02&theme=dark&hide_border=true" alt="gisolfi02" /></p>
 
