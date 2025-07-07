@@ -50,10 +50,4 @@
   </tr>
 </table>
 
-
-###
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/gisolfi02/gisolfi02/output/snake.svg" alt="Snake animation" />
-
-###
+![snake animation](https://github.com/gisolfi02/gisolfi02/blob/output/github-contribution-grid-snake2.svg)
