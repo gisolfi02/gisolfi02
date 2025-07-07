@@ -1,11 +1,7 @@
 <p align="center">
   <img src="assets/banner.gif" width=900>
 </p>
-<p align="center">
- <img src="https://badges.pufler.dev/visits/gisolfi02/gisolfi02"/> 
- <img src="https://badges.pufler.dev/repos/gisolfi02"/>
- <img src="https://badges.pufler.dev/commits/monthly/gisolfi02" />
-</p>
+
 
 <img align="right" src="assets/coding.gif" width="400" height="270"> 
 
