@@ -2,7 +2,11 @@
   <img src="assets/banner.gif" width=900>
 </p>
 
-
+<div align="center">
+  <a href="https://open.spotify.com/user/31vdqsq3nt6isp2tlvwdmrsm6oju">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vdqsq3nt6isp2tlvwdmrsm6oju&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 <img align="right" src="assets/coding.gif" width="400" height="270"> 
 
 <h3 align="left" style="font-style:bold">Connect with me </h3>
@@ -47,9 +51,5 @@
 </table>
 
 <img src="https://raw.githubusercontent.com/gisolfi02/gisolfi02/output/snake.svg" alt="Snake animation" />
-<div align="center">
-  <a href="https://open.spotify.com/user/31vdqsq3nt6isp2tlvwdmrsm6oju">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vdqsq3nt6isp2tlvwdmrsm6oju&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
