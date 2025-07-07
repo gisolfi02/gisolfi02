@@ -7,6 +7,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vdqsq3nt6isp2tlvwdmrsm6oju&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+<br><br>
 <img align="right" src="assets/coding.gif" width="400" height="270"> 
 
 <h3 align="left" style="font-size:bold">🌐 Connect with me</h3>
@@ -33,7 +34,7 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
 </p>
 
-
+<br><br>
 <h3 align="center" style="font-style:bold">📊 GitHub Stats</h3>
 
 <table >
