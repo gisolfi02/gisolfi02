@@ -45,6 +45,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=gisolfi02&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="gisolfi02"  width=495px/>
       <br>
+      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=gisolfi02&theme=dark&hide_border=true" alt="gisolfi02" /></p> 
     </td>
   </tr>
 </table>
