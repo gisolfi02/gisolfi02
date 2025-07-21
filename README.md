@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="assets/Banner.gif" width=900>
+  <img src="assets/Banner.gif" width=800>
 </p>
-<h1 align="center">Hi, I'm Andrea Gisolfi</h1>
+<h1 align="center">Hi there! 👋 I'm Andrea Gisolfi</h1>
 <h3 align="center">Computer Science Major</h3>
+<br><br>
 <div align="center">
   <a href="https://open.spotify.com/user/31vdqsq3nt6isp2tlvwdmrsm6oju">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vdqsq3nt6isp2tlvwdmrsm6oju&count=3&unique=true" alt="Spotify recently played"  />
