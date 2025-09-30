@@ -40,6 +40,9 @@
   <img src="https://skillicons.dev/icons?i=react"  alt="react logo"  />
   <img width="1" />
 </p>
+<p align = 'right'>
+<img align='right' src="assets/coding.gif" width="50%">
+</p>
 
 ### Database
 <p align="left">
