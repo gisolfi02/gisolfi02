@@ -10,17 +10,10 @@
   </a>
 </div>
 <br><br>
-<img align="right" src="assets/coding.gif" width="400" height="270"> 
 
-<h3 align="left" style="font-size:bold">🌐 Connect with me</h3>
-<p>
-<a href="https://twitter.com/1pallasudata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1pallasudata" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrea-gisolfi-6998a1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea gisolfi" height="30" width="40"/></a>
-  <a href="https://www.facebook.com/andrea.gisolfi.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrea gisolfi" height="30" width="40" /></a>
-<a href="https://instagram.com/andrea_gisolfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrea_gisolfi" height="30" width="40" /></a>
-</p>
 
-<h3 align="left" style="font-style:bold">🛠️ Languages and Tools</h3>
+## 🛠️ Languages and Tools
+### Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="1" />
@@ -28,23 +21,56 @@
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="1" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  </p>
+  
+### Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="1" />
+</p>
+
+### Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="1" />
+</p>
+
+### Game Development
+<p align="left">
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img width="1" />
+</p>
+
+### IDE
+<p align="left"
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
+  <img width="1" />
+</p>
+
+## 🌐 Connect with me
+<p>
+<a href="https://twitter.com/1pallasudata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1pallasudata" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andrea-gisolfi-6998a1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea gisolfi" height="30" width="40"/></a>
+  <a href="https://www.facebook.com/andrea.gisolfi.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrea gisolfi" height="30" width="40" /></a>
+<a href="https://instagram.com/andrea_gisolfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrea_gisolfi" height="30" width="40" /></a>
 </p>
 
 <br><br>
