@@ -66,12 +66,14 @@
 </p>
 
 ## 🌐 Connect with me
-<p>
-<a href="https://twitter.com/1pallasudata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1pallasudata" /></a>
-<a href="https://linkedin.com/in/andrea-gisolfi-6998a1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea gisolfi" /></a>
-  <a href="https://www.facebook.com/andrea.gisolfi.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrea gisolfi" height="30" width="40" /></a>
-<a href="https://instagram.com/andrea_gisolfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrea_gisolfi" height="30" width="40" /></a>
-</p>
+[<img src="assets/linkedin.png" width="48px" height="48px" style="margin-right:10px">](https://linkedin.com/in/andrea-gisolfi-6998a1311)
+<img width="1" />
+[<img src="https://skillicons.dev/icons?i=instagram"   style="margin-right:10px"/>](https://instagram.com/andrea_gisolfi)
+<img width="1" />
+[<img src="assets/x.svg" width="48px" height="48px" style="margin-right:10px">](https://twitter.com/1pallasudata)
+<img width="1" />
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="48px" width="48px" style="margin-right:8px" />](https://www.facebook.com/andrea.gisolfi.7)
+
 
 <br><br>
 <h3 align="center" style="font-style:bold">📊 GitHub Stats</h3>
