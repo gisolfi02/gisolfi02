@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Banner.gif" width=800>
+  <img src="assets/Banner.gif" width=80%>
 </p>
 <h1 align="center">Hi there! 👋 I'm Andrea Gisolfi</h1>
 <h3 align="center">Computer Science Major</h3>
@@ -15,60 +15,60 @@
 ## 🛠️ Languages and Tools
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c"  alt="c logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs"  alt="csharp logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java"  alt="java logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js"  alt="javascript logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py"  alt="python logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
+  <img src="https://skillicons.dev/icons?i=solidity"  alt="solidity logo"  />
   <img width="1" />
   </p>
   
 ### Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html"  alt="html5 logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css"  alt="css logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react"  alt="react logo"  />
   <img width="1" />
 </p>
 
 ### Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql"  alt="mysql logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb"  alt="mongodb logo"  />
   <img width="1" />
 </p>
 
 ### Game Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=unity"  alt="unity logo"  />
   <img width="1" />
 </p>
 
 ### IDE
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img src="https://skillicons.dev/icons?i=idea" alt="intellijidea logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode"  alt="vscode logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
+  <img src="https://skillicons.dev/icons?i=pycharm"  alt="pycharm logo"  />
   <img width="1" />
 </p>
 
 ## 🌐 Connect with me
 <p>
-<a href="https://twitter.com/1pallasudata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1pallasudata" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrea-gisolfi-6998a1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea gisolfi" height="30" width="40"/></a>
+<a href="https://twitter.com/1pallasudata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1pallasudata" /></a>
+<a href="https://linkedin.com/in/andrea-gisolfi-6998a1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea gisolfi" /></a>
   <a href="https://www.facebook.com/andrea.gisolfi.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrea gisolfi" height="30" width="40" /></a>
 <a href="https://instagram.com/andrea_gisolfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrea_gisolfi" height="30" width="40" /></a>
 </p>
