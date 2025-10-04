@@ -13,7 +13,7 @@
 
 
 ## 🛠️ Languages and Tools
-### Languages
+### Languages:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c"  alt="c logo"  />
   <img width="1" />
@@ -24,12 +24,9 @@
   <img src="https://skillicons.dev/icons?i=js"  alt="javascript logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=py"  alt="python logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=solidity"  alt="solidity logo"  />
-  <img width="1" />
   </p>
   
-### Web Development
+### Web Development:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html"  alt="html5 logo"  />
   <img width="1" />
@@ -44,21 +41,16 @@
 <img align='right' src="assets/coding.gif" width="50%">
 </p>
 
-### Database
+### Blockchain:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql"  alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=solidity"  alt="solidity logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=mongodb"  alt="mongodb logo"  />
+  <img src="assets/truffle.png" width="48px" height="48px" style="margin-right:10px">
   <img width="1" />
+  <img src="assets/ganache.png" width="48px" height="48px" style="margin-right:10px">
 </p>
 
-### Game Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unity"  alt="unity logo"  />
-  <img width="1" />
-</p>
-
-### IDE
+### IDE:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=idea" alt="intellijidea logo"  />
   <img width="1" />
@@ -67,6 +59,22 @@
   <img src="https://skillicons.dev/icons?i=pycharm"  alt="pycharm logo"  />
   <img width="1" />
 </p>
+
+### Database:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql"  alt="mysql logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=mongodb"  alt="mongodb logo"  />
+  <img width="1" />
+</p>
+
+### Game Development:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity"  alt="unity logo"  />
+  <img width="1" />
+</p>
+
+
 
 ## 🌐 Connect with me
 [<img src="assets/linkedin.png" width="48px" height="48px" style="margin-right:10px">](https://linkedin.com/in/andrea-gisolfi-6998a1311)
