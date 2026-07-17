@@ -89,22 +89,13 @@
 <br><br>
 <h3 align="center" style="font-style:bold">📊 GitHub Stats</h3>
 
-<table >
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisolfi02&theme=dark&hide_border=true&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20" width=335px>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=gisolfi02&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="gisolfi02"  width=495px/>
-      <br>
-      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=gisolfi02&theme=dark&hide_border=true" alt="gisolfi02" /></p> 
-    </td>
-  </tr>
-</table>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gisolfi02&theme=dark&count_private=true&inlcude_all_commits=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=gisolfi02&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&hide=shell,mathematica,hlsl,shaderlab,glsl,qml,lua&langs)
+![](https://github-readme-stats.shion.dev/api?username=gisolfi02&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://streak-stats.demolab.com/?user=gisolfi02&theme=dark&hide_border=true)
+
 
 <img src="https://raw.githubusercontent.com/gisolfi02/gisolfi02/output/snake.svg" alt="Snake animation" />
-
-
 
 
 
