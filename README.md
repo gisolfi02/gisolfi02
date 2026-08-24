@@ -5,9 +5,9 @@
 <h3 align="center">Computer Science Major</h3>
 <br><br>
 <div align="center">
-  <a href="https://open.spotify.com/user/31vdqsq3nt6isp2tlvwdmrsm6oju">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vdqsq3nt6isp2tlvwdmrsm6oju&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
+
+  ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31vdqsq3nt6isp2tlvwdmrsm6oju&profile=off&username=off)
+
 </div>
 <br><br>
 
