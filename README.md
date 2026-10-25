@@ -90,7 +90,7 @@
 <h3 align="center" style="font-style:bold">📊 GitHub Stats</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gisolfi02&theme=dark&count_private=true&inlcude_all_commits=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gisolfi02&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&hide=shell,mathematica,hlsl,shaderlab,glsl,qml,lua&langs)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=gisolfi02&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&hide=shell,mathematica,hlsl,shaderlab,glsl,css,qml,lua&langs)
 ![](https://github-readme-stats.shion.dev/api?username=gisolfi02&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://streak-stats.demolab.com/?user=gisolfi02&theme=dark&hide_border=true)
 
